@@ -1,3 +1,10 @@
 google-cloud-aiplatform >= 1.31.0
 flask
 google-cloud-logging
+vertexai
+os
+pypdf
+langchain
+shapely
+chromadb
+colab
